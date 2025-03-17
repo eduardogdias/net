@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\bin\Debug\net8.0\Pagamentos_Polimorfismo.exe
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\bin\Debug\net8.0\Pagamentos_Polimorfismo.deps.json
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\bin\Debug\net8.0\Pagamentos_Polimorfismo.runtimeconfig.json
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\bin\Debug\net8.0\Pagamentos_Polimorfismo.dll
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\bin\Debug\net8.0\Pagamentos_Polimorfismo.pdb
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.dll
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\refint\Pagamentos_Polimorfismo.dll
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.pdb
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\Pagamentos_Polimorfismo.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\net\aula04\Pagamentos_Polimorfismo\Pagamentos_Polimorfismo\obj\Debug\net8.0\ref\Pagamentos_Polimorfismo.dll

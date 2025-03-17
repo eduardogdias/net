@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\net\\aula02\\CalculadoraPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CBB0F5-03EA-47D7-A5A8-BD5C332B6947}|CalculadoraPOO\\CalculadoraPOO.csproj|c:\\users\\eduardo\\desktop\\net\\aula02\\calculadorapoo\\calculadorapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CBB0F5-03EA-47D7-A5A8-BD5C332B6947}|CalculadoraPOO\\CalculadoraPOO.csproj|solutionrelative:calculadorapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CBB0F5-03EA-47D7-A5A8-BD5C332B6947}|CalculadoraPOO\\CalculadoraPOO.csproj|c:\\users\\eduardo\\desktop\\net\\aula02\\calculadorapoo\\calculadorapoo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CBB0F5-03EA-47D7-A5A8-BD5C332B6947}|CalculadoraPOO\\CalculadoraPOO.csproj|solutionrelative:calculadorapoo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula02\\CalculadoraPOO\\CalculadoraPOO\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraPOO\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula02\\CalculadoraPOO\\CalculadoraPOO\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraPOO\\Calculadora.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:34:25.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula02\\CalculadoraPOO\\CalculadoraPOO\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula02\\CalculadoraPOO\\CalculadoraPOO\\Program.cs",
+              "RelativeToolTip": "CalculadoraPOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:33:49.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

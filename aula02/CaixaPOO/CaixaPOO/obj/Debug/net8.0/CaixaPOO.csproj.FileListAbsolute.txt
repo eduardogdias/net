@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\bin\Debug\net8.0\CaixaPOO.exe
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\bin\Debug\net8.0\CaixaPOO.deps.json
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\bin\Debug\net8.0\CaixaPOO.runtimeconfig.json
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\bin\Debug\net8.0\CaixaPOO.dll
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\bin\Debug\net8.0\CaixaPOO.pdb
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.dll
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\refint\CaixaPOO.dll
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.pdb
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\CaixaPOO.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\net\aula02\CaixaPOO\CaixaPOO\obj\Debug\net8.0\ref\CaixaPOO.dll
