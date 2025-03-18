@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|c:\\users\\eduardo\\desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|solutionrelative:cp1_ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|c:\\users\\eduardo\\desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|solutionrelative:cp1_ex02\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|c:\\users\\eduardo\\desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|solutionrelative:cp1_ex02\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|c:\\users\\eduardo\\desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|solutionrelative:cp1_ex02\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|c:\\users\\eduardo\\desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9E6F8F-CF03-4052-88DE-579FD6F919E9}|cp1_ex02\\cp1_ex02.csproj|solutionrelative:cp1_ex02\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Triangulo.cs",
+              "RelativeDocumentMoniker": "cp1_ex02\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Triangulo.cs",
+              "RelativeToolTip": "cp1_ex02\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:37:04.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Retangulo.cs",
+              "RelativeDocumentMoniker": "cp1_ex02\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Retangulo.cs",
+              "RelativeToolTip": "cp1_ex02\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:27:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Circulo.cs",
+              "RelativeDocumentMoniker": "cp1_ex02\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Circulo.cs",
+              "RelativeToolTip": "cp1_ex02\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:27:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "cp1_ex02\\FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\FormaGeometrica.cs",
+              "RelativeToolTip": "cp1_ex02\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:11:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Program.cs",
+              "RelativeDocumentMoniker": "cp1_ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\checkpoints\\cp1\\cp1_ex01\\cp1_ex02\\Program.cs",
+              "RelativeToolTip": "cp1_ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:08:31.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
