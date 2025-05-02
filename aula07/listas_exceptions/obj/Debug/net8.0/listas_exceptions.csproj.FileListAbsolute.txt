@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\bin\Debug\net8.0\listas_exceptions.exe
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\bin\Debug\net8.0\listas_exceptions.deps.json
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\bin\Debug\net8.0\listas_exceptions.runtimeconfig.json
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\bin\Debug\net8.0\listas_exceptions.dll
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\bin\Debug\net8.0\listas_exceptions.pdb
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.sourcelink.json
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.dll
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\refint\listas_exceptions.dll
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.pdb
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\listas_exceptions.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\net\aula07\listas_exceptions\obj\Debug\net8.0\ref\listas_exceptions.dll
