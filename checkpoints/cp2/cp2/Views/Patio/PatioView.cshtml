@@ -1,0 +1,97 @@
+﻿@model List<Patio>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de Patios</title>
+    <style>
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #00b131;
+            color: black;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .button a {
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #00b131;
+            color: black;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button a:hover {
+            background-color: #00ff00;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Pátio</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Vagas</th>
+                <th>Descrição</th>
+                <th>Comprimento (Pátio)</th>
+                <th>Largura (Pátio)</th>
+                <th>Comprimento (Vaga)</th>
+                <th>Largura (Vaga)</th>
+                <th>Ações</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patio in Model)
+            {
+                <tr>
+                    <td>@patio.Id</td>
+                    <td>@patio.Nome</td>
+                    <td>@patio.Vagas</td>
+                    <td>@patio.Descricao</td>
+                    <td>@patio.ComprimentoPatio</td>
+                    <td>@patio.LarguraPatio</td>
+                    <td>@patio.ComprimentoVaga</td>
+                    <td>@patio.LarguraVaga</td>
+                    <td>
+                        <a asp-controller="Patio" asp-action="Update" asp-route-id="@patio.Id">Editar</a>
+                        <a asp-controller="Patio" asp-action="Delete" asp-route-id="@patio.Id">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br/>
+    <div class="button">
+        <a asp-controller="Patio" asp-action="Create" class="btn-add">Adicionar Pátio</a>
+        <a asp-controller="Home" asp-action="Index">Voltar</a>
+    </div>
+</body>
+</html>

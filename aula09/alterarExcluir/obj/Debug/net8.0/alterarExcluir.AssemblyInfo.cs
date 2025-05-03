@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alterarExcluir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5103a17c18e0f82350af4e15f29f596bd058abc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2dbfbdd87886c9fa520764338604447d73336c")]
 [assembly: System.Reflection.AssemblyProductAttribute("alterarExcluir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alterarExcluir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

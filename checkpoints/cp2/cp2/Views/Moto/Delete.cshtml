@@ -1,0 +1,10 @@
+﻿@model Moto
+
+<h2>Deletar Moto</h2>
+<p>Você tem certeza  que deseja excluir a Moto @Model.Marca @Model.Modelo de placa @Model.Placa?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Placa" />
+    <button type="submit" class="btn btn-danger">Confirmar</button>
+    <a asp-action="MotoView" class="btn btn-secondary">Cancelar</a>
+</form>

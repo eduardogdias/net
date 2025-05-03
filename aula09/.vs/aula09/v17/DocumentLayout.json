@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|c:\\users\\eduardo\\desktop\\net\\aula09\\alterarexcluir\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B60AE-26C8-463A-AAB1-26BD7DD779C9}|alterarExcluir\\alterarExcluir.csproj|solutionrelative:alterarexcluir\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "alterarExcluir\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "alterarExcluir\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T02:28:07.972Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -51,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Produto\\Edit.cshtml",
               "RelativeDocumentMoniker": "alterarExcluir\\Views\\Produto\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Produto\\Edit.cshtml",
               "RelativeToolTip": "alterarExcluir\\Views\\Produto\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-02T19:19:35.42Z",
               "EditorCaption": ""
@@ -70,49 +86,48 @@
               "RelativeDocumentMoniker": "alterarExcluir\\Views\\Produto\\Create.cshtml",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Produto\\Create.cshtml",
               "RelativeToolTip": "alterarExcluir\\Views\\Produto\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-02T18:35:19.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "alterarExcluir\\Views\\Produto\\Index.cshtml",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Views\\Produto\\Index.cshtml",
               "RelativeToolTip": "alterarExcluir\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-02T18:34:55.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "alterarExcluir\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "alterarExcluir\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwD0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T18:33:27.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "alterarExcluir\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\Eduardo\\Desktop\\net\\aula09\\alterarExcluir\\Models\\Produto.cs",
               "RelativeToolTip": "alterarExcluir\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:32:49.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T18:32:49.353Z"
             }
           ]
         }

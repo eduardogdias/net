@@ -1,0 +1,88 @@
+﻿@model List<Moto>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de Motos</title>
+    <style>
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #00b131;
+            color: black;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .button a {
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #00b131;
+            color: black;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button a:hover {
+            background-color: #00ff00;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Moto</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Placa</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Chassi</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var moto in Model)
+            {
+                <tr>
+                    <td>@moto.Placa</td>
+                    <td>@moto.Marca</td>
+                    <td>@moto.Modelo</td>
+                    <td>@moto.Chassi</td>
+                    <td>
+                        <a asp-controller="Moto" asp-action="Update" asp-route-placa="@moto.Placa">Editar</a>
+                        <a asp-controller="Moto" asp-action="Delete" asp-route-placa="@moto.Placa">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br/>
+    <div class="button">
+        <a asp-controller="Moto" asp-action="Create" class="btn-add">Adicionar Moto</a>
+        <a asp-controller="Home" asp-action="Index">Voltar</a>
+    </div>
+</body>
+</html>

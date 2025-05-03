@@ -1,0 +1,10 @@
+﻿@model Patio
+
+<h2>Deletar Pátio</h2>
+<p>Você tem certeza  que deseja excluir o Pátio @Model.Nome?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Confirmar</button>
+    <a asp-action="PatioView" class="btn btn-secondary">Cancelar</a>
+</form>
